@@ -13,7 +13,7 @@
 
 > Engineering at the intersection of Software, Hardware, and Artificial Intelligence.
 
-A technical all-rounder and clean-code advocate focused on building complete, end-to-end solutions. I specialize in bridging systems—from developing scalable cloud-native backends and full-stack applications to training computer vision models for embedded IoT devices. My focus is on precision, workflow automation, and leveraging agentic development to build intelligent, autonomous architectures.
+A technical all-rounder and clean-code advocate focused on building complete, end-to-end solutions. I specialize in bridging systems—from developing scalable microservices and full-stack applications to training computer vision models for embedded IoT devices. My focus is on precision, workflow automation, and leveraging agentic development to build intelligent, autonomous architectures.
 
 ---
 
@@ -25,30 +25,51 @@ A technical all-rounder and clean-code advocate focused on building complete, en
 
 ### Tech Stack
 
-**Software & Web**
+**AI & Machine Learning**
 <div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/YOLOv11-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20Impulse-000000?style=flat-square&logo=edgeimpulse&logoColor=white" />
+</div>
+
+**Programming Languages**
+<div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Ballerina-000000?style=flat-square&logo=ballerina&logoColor=20B6B0" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=239120" />
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </div>
 
-**IoT, ML & Automations**
+**Full-Stack Frameworks**
 <div align="left">
-  <img src="https://img.shields.io/badge/Edge%20Impulse-000000?style=flat-square&logo=edgeimpulse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Vite.js-000000?style=flat-square&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+</div>
+
+**IoT & Embedded Systems**
+<div align="left">
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=E7352C" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat-square&logo=Raspberry%20Pi&logoColor=C51A4A" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=00979D" />
 </div>
 
-**Systems & Tools**
+**Tools & Infrastructure**
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Choreo_WSO2-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
 </div>
 
 ---
