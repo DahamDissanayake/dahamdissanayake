@@ -27,11 +27,11 @@ A technical all-rounder and clean-code advocate focused on building complete, en
 
 **AI & Machine Learning**
 <div align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" />
   <img src="https://img.shields.io/badge/YOLOv11-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Edge%20Impulse-000000?style=flat-square&logo=edgeimpulse&logoColor=white" />
 </div>
 
@@ -67,7 +67,8 @@ A technical all-rounder and clean-code advocate focused on building complete, en
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Choreo_WSO2-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/JupyterLab-000000?style=flat-square&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
 </div>
